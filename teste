@@ -5,3 +5,4 @@ nano teste
 #!/bin/bash
 echo ' teste para ver se funciona'
 chmod a+x teste 
+./teste
