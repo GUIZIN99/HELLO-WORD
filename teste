@@ -1,9 +1,0 @@
-.bash
-pkg install python 
-pkg install git
-pkg install nano
-nano teste
-#!/bin/bash
-echo ' teste para ver se funciona'
-chmod a+x teste 
-./teste
